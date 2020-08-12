@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "simple static site made with gulp",
   "main": "gulpfile.js",
-  "dependencies": {},
+  "dependencies": {
+    "natives": "^1.1.6"
+  },
   "devDependencies": {
     "browser-sync": "^2.24.7",
     "del": "^3.0.0",
